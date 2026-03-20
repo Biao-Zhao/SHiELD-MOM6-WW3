@@ -28,13 +28,14 @@ git clone -b wave git@github.com:Biao-Zhao/SHiELD_build.git
 ### 2. Download all required source code
 
 ```bash
-./CHECKOUT_code
+cd SHiELD_build/
+./CHECKOUT_code shiewamom
 ```
 
 This step retrieves all required modules, including FMS, FMScoupler, SHiELD, MOM6, and WW3.
 
 ### 3. Build the WW3 coupling libraries
-
+In SHiELD_build directory, run the following command
 ```bash
 ./Set_Up_WW3.csh
 ```
@@ -44,7 +45,7 @@ This step compiles WW3 into the library files required by the coupled system.
 ### 4. Compile the coupled model
 
 ```bash
-cd SHiELD_build/Build/
+cd Build/
 ./COMPILE shiewamom nh prod 64bit intel
 ```
 
