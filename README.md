@@ -49,4 +49,5 @@ cd Build/
 ./COMPILE shiewamom nh prod 64bit intel
 ```
 
-This step builds the full SHiELD–MOM6–WW3 coupled modeling system.
+This step builds the full SHiELD–MOM6–WW3 coupled modeling system. If the compilation is successful, an executable file  
+`SHiEWaMOM_nh.prod.64bit.intel.x` will be generated
