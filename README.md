@@ -13,7 +13,6 @@ SHiELD–MOM6–WW3 is a high-resolution coupled modeling framework that integra
 - **WW3** – Wave model  
 - **FMS / FMScoupler** – Coupling infrastructure  
 
-This repository provides the build environment and workflow to compile and run the fully coupled system.
 ---
 
 ## Build Instructions
@@ -39,7 +38,7 @@ This step retrieves all required modules, including FMS, FMScoupler, SHiELD, MOM
 
 This step compiles WW3 into the library files required by the coupled system.
 
-###4. Compile the coupled model
+### 4. Compile the coupled model
 
 ```bash
 cd SHiELD_build/Build/
