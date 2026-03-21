@@ -4,7 +4,8 @@ This repository organizes workflows for compiling and running the SHiELD–MOM6�
 - **MOM6** – [Ocean model](https://github.com/NOAA-GFDL/MOM6)
 - **SIS2** - [Sea ice moel](https://github.com/NOAA-GFDL/SIS2)
 - **WW3** – [WaveWatch III wave model](https://github.com/NOAA-EMC/WW3) 
-- **FMS / FMScoupler** – Coupling infrastructure  
+- **FMS** - [Coupling infrastructure](https://github.com/NOAA-GFDL/FMS)
+- **FMScoupler** – [FMS Coupler](https://github.com/NOAA-GFDL/FMScoupler)
 
 At its current stage, this repository primarily serves as a personal reference and working log, documenting the procedures, scripts, and configurations used to compile, configure, and run the coupled system. The content is still under active development and will be gradually expanded and refined to include more standardized workflows.
 
