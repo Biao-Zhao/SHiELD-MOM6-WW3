@@ -47,3 +47,6 @@ cd Build/
 
 This step builds the full SHiELD–MOM6–WW3 coupled modeling system. If the compilation is successful, an executable file  
 `SHiEWaMOM_nh.prod.64bit.intel.x` will be generated
+
+## Running Instructions
+To be completed..........
