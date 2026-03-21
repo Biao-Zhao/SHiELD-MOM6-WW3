@@ -1,10 +1,11 @@
 ## Overview
-This repository organizes the workflows for the compile the SHiELD–MOM6–WW3 atmosphere–ocean–wave coupled modeling system.
-SHiELD–MOM6–WW3 is a coupled modeling framework that integrates:
+This repository organizes workflows for compiling and running the SHiELD–MOM6–WW3 atmosphere–ocean–wave coupled modeling system. SHiELD–MOM6–WW3 is a coupled modeling framework that integrates:
 - **SHiELD** – Atmospheric model  
 - **MOM6** – Ocean model  
 - **WW3** – Wave model  
 - **FMS / FMScoupler** – Coupling infrastructure  
+
+At its current stage, this repository primarily serves as a personal reference and working log, documenting the procedures, scripts, and configurations used to compile, configure, and run the coupled system. The content is still under active development and will be gradually expanded and refined to include more standardized workflows.
 
 ---
 
