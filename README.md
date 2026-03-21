@@ -13,9 +13,9 @@ At its current stage, this repository primarily serves as a personal reference a
 
 ## Build Instructions
 
-To build the SHiELD–MOM6–WW3 coupled modeling system:
 
 ### 1. Clone the build repository
+To compile SHiELD, the first step is to clone the build repository [build repository](https://github.com/NOAA-GFDL/SHiELD_build). If you want to enable WW3 coupling support, you should check out the following branch:
 
 ```bash
 git clone -b wave git@github.com:Biao-Zhao/SHiELD_build.git
